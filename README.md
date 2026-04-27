@@ -16,7 +16,7 @@ A machine learning model that classifies 4 hand gestures in real-time using Goog
 👉 [Click here to run the model](https://sharmaayush2045-a11y.github.io/Hand_gesture/)
 
 ## Teachable Machine Model
-🔗 [Model Link](https://teachablemachine.withgoogle.com/models/Pos4zmu-X/)
+🔗 [Model Link](https://teachablemachine.withgoogle.com/models/ELeiG8iUx/)
 
 ## Tools Used
 - Google Teachable Machine
